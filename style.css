@@ -12,7 +12,7 @@
     background-color: #5DCD93;
     padding: 50px;
     color: white;
-    width: 40%;
+    width: 30%;
 }
 .contact-title{
     font-size: 30px;
@@ -41,7 +41,7 @@
 .blank-form{
     padding-top: 50px;
     padding-left: 40px;
-    width: 60%;
+    width: 70%;
 }
 .blank-form h1{
     font-size: 30px;
@@ -53,7 +53,7 @@
     justify-content: left;
 }
 input {
-    width: 100%;
+    width: 90%;
     margin-bottom: 20px;
     padding: 10px 0;
     padding-left: 10px;
@@ -64,13 +64,14 @@ label{
     text-transform: uppercase;
 }
 textarea{
+    width: 90%;
     margin-bottom: 20px;
     padding: 10px;
     border: 0;
     border-bottom: 1px solid rgba(0, 0, 0, 0.349);
 }
 .w-50{
-    width: 47%;
+    width: 45%;
     margin-right: 20px;
 }
 .btn{
